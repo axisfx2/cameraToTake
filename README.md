@@ -1,4 +1,4 @@
-# Stage Splitter
+# Camera to Take
 
 * Description: Cinema 4D plugin that turns cameras into takes and render settings
 * Author: Ewan Davidson
